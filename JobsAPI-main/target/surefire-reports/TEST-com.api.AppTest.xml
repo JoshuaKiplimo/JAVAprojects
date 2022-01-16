@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.api.AppTest" time="0.123" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/emmanuelgyekyeatta-penkra/api/api/target/test-classes:/Users/emmanuelgyekyeatta-penkra/api/api/target/classes:/Users/emmanuelgyekyeatta-penkra/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-server/9.3.27.v20190418/jetty-server-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-http/9.3.27.v20190418/jetty-http-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-util/9.3.27.v20190418/jetty-util-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-io/9.3.27.v20190418/jetty-io-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-servlet/9.3.27.v20190418/jetty-servlet-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-security/9.3.27.v20190418/jetty-security-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/rest-assured/4.3.3/rest-assured-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/codehaus/groovy/groovy/3.0.7/groovy-3.0.7.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.7/groovy-xml-3.0.7.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/json-path/4.3.3/json-path-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/codehaus/groovy/groovy-json/3.0.7/groovy-json-3.0.7.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/rest-assured-common/4.3.3/rest-assured-common-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/xml-path/4.3.3/xml-path-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/16.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/emmanuelgyekyeatta-penkra/api/api/target/surefire/surefirebooter17562195785945787415.jar /Users/emmanuelgyekyeatta-penkra/api/api/target/surefire 2021-08-26T01-19-07_738-jvmRun1 surefire16291583432165452536tmp surefire_015810747415049499576tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/emmanuelgyekyeatta-penkra/api/api/target/test-classes:/Users/emmanuelgyekyeatta-penkra/api/api/target/classes:/Users/emmanuelgyekyeatta-penkra/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-server/9.3.27.v20190418/jetty-server-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-http/9.3.27.v20190418/jetty-http-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-util/9.3.27.v20190418/jetty-util-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-io/9.3.27.v20190418/jetty-io-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-servlet/9.3.27.v20190418/jetty-servlet-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/eclipse/jetty/jetty-security/9.3.27.v20190418/jetty-security-9.3.27.v20190418.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/rest-assured/4.3.3/rest-assured-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/codehaus/groovy/groovy/3.0.7/groovy-3.0.7.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.7/groovy-xml-3.0.7.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/json-path/4.3.3/json-path-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/codehaus/groovy/groovy-json/3.0.7/groovy-json-3.0.7.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/rest-assured-common/4.3.3/rest-assured-common-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/io/rest-assured/xml-path/4.3.3/xml-path-4.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar:/Users/emmanuelgyekyeatta-penkra/.m2/repository/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/emmanuelgyekyeatta-penkra"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/16.0.2/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/emmanuelgyekyeatta-penkra/api/api"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/emmanuelgyekyeatta-penkra/api/api/target/surefire/surefirebooter17562195785945787415.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="16.0.2+0"/>
+    <property name="user.name" value="emmanuelgyekyeatta-penkra"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.15.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/emmanuelgyekyeatta-penkra/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/4w/xzhgnzps4q34nx76cyv_g4nw0000gn/T/"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="user.dir" value="/Users/emmanuelgyekyeatta-penkra/api/api"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/emmanuelgyekyeatta-penkra/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="16.0.2+0"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.api.AppTest" time="0.003"/>
+</testsuite>
